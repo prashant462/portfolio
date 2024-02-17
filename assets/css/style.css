@@ -724,6 +724,12 @@ header .navbar ul li a:hover {
 .work .desc .btns .btn:hover {
   background: #310ae0f5;
 }
+.work .summary {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 .work .viewall {
   display: flex;
   justify-content: center;
